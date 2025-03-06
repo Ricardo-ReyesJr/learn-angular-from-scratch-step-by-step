@@ -1,10 +1,10 @@
 # Angular Tutorial: Learn Angular from scratch step by step
 
-This project is part of Learn Angular from scratch step by step tutorial where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.
+This project is part of the Learn Angular from scratch step by step tutorial, where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.
 
-In this Angular Tutorial we explain one by one the main building blocks of an Angular application as well as the best practices for building a complete mobile app with Angular. Also this tutorial shows how to setup your dev environment so you can start developing Angular apps in your computer right now.
+In this Angular Tutorial we explain one by one the main building blocks of an Angular application as well as the best practices for building a complete mobile app with Angular. Also, this tutorial shows how to set up your dev environment so you can start developing Angular apps on your computer right now.
 
-Get the step by step free tutorial in https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
+Get the step-by-step free tutorial in https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step
 
 **Please support this project by simply putting a Github star ⭐. Share this library with friends on Twitter and everywhere else you can. 🙏. Thanks**
 
@@ -26,7 +26,7 @@ https://learn-angular-from-scratch.firebaseapp.com
 
 ## Premium Angular Starter Apps
 
-If you want to build a complex and robust Angular app you should check [Fully - Angular Admin Template](https://angular-templates.io/product/fully-angular-admin-template) which is a super complete application to build your next angular project.
+If you want to build a complex and robust Angular app, you should check [Fully - Angular Admin Template](https://angular-templates.io/product/fully-angular-admin-template) which is a super complete application to build your next Angular project.
 
 It includes lots of Angular Material Components. 
 
